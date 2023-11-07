@@ -4,4 +4,4 @@
 
 
 beautiful image slider using htm css and javascript
-watch video tutorial on youtube : 
+watch video tutorial on youtube : https://youtu.be/T5uaOdLiLsI
